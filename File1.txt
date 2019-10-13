@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Changed by joseba-martin
+=======
 change1 by dev2
+>>>>>>> origin/new_feature
